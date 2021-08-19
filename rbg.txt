@@ -1,5 +1,7 @@
 A&W
-  Great mass brew. Very frothy with lots of vanilla flavor
+  Origin: California
+  Notes: Great mass brew. Very frothy with lots of vanilla flavor
+  Fun Fact: owners of rootbeer.com
 Barq’s
   Great mass brew. Has a good sarsaparilla bite.
 Dad’s
@@ -21,3 +23,7 @@ Reading Draft
   heavy vanilla
 Filbert's Old Time
   heavy vanilla
+Point
+  a boutique root beer in the Barq's flavor style.
+Henry Weinhard's
+  extremely frothy with lots of vanilla. Like a rb float without the ice cream
